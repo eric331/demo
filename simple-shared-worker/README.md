@@ -1,4 +1,4 @@
-###简介
+### 简介
 用于跨页面通信的shared worker demo，基于mdn官方demo改造
 
 ### 启动方式
